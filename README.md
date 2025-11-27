@@ -7,14 +7,13 @@ interactive dashboards and automated workflows.
 
 ### Part 1 - Wimbledon Analysis (2000 - 2024)
 
-**![Full report](Wimbledon_statistical_analysis.md)**
-
 [Data set for atp matches](https://github.com/JeffSackmann/tennis_atp)
 
-Scripts
+**![Full report](Wimbledon_statistical_analysis.md)**
 
-Notebooks
+**![Notebook code](notebooks/part_1_analysis.ipynb)**
 
+**![Data cleaning script](scripts/data_analysis_part_1.py)**
 
 
 
