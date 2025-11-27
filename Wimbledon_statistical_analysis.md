@@ -21,12 +21,14 @@ and skill level rather than the evolution of the sport.
 Years like 2009 and 2018 show that the number of aces is heavily influenced by the length of the matches themselves. Even though serve quality may have 
 improved, the return quality from the players may have improved equally balancing out the advantage of stronger serves.
 
+![Aces per Year](figures/avg_aces.png)
 
 ## Average number of double faults per year
 
 Double faults are often more psychological than technical, and this could be due to factors such as pressure, nerves or aggression. The graph shows 
 fluctuation over the 25 year period but no strong trend in either direction. 
 
+![Double Faults per Year](figures/double_faults.png)
 
 By the semi-finals and finals of a Wimbledon Tournament, we are typically left with the best servers, players who are more consistent and experienced
 under pressure. For example in the period between 2005 and 2008, Roger Federer and Rafael Nadal consistently reached the finals, and this period shows 
@@ -39,6 +41,7 @@ while serving power may have increased over time, accuracy and consistency has n
 This statistic has its own unique trend to the first two, aces and double faults. After an initial dip in the early 2000’s, the first serve percentages
 increased and fluctuated at a higher level, peaking notably in 2008 and 2018 coinciding with some of the most competitive finals of the century.
 
+![Average first serve in](figures/first_serves_in.png)
 
 The early 2000s appear to have been a period of inconsistent serving, as shown by the lower first serve percentages and higher double faults count during
 those years. This could have occurred for many reasons including the awkward play styles, inconsistent weather conditions or just due to the variability 
@@ -57,10 +60,13 @@ longer matchups:
 
 A clearer year by year comparison is illustrated below (right) to make it easier to visually compare the duration between semi-finals and finals matches.
 
+![Match duration per year line](figures/match_duration_line.png)
+![Match duration per year bar](figures/match_duration_bar.png)
 
 Across the 25 year period, the average match duration was approximately 183 minutes for finals and 160 minutes for semi-final. The decade-based summary 
 (shown below) suggests a slight increase in match length during the 2020’s, though this might change as the decade is still ongoing.
 
+![Match duration per decade](figures/decade_match_duration.png)
 
 This trend supports the idea that modern tennis has become more physically demanding, with longer rallies. To make this hypothesis clearer it would be best
 to compare with more data from pre 2000s but generally as the quality of tennis has improved the duration of matches has increased.
@@ -71,6 +77,7 @@ to compare with more data from pre 2000s but generally as the quality of tennis 
 This scatter plot compares average match duration with first serve percentage to explore whether serving quality declines in longer matches. The initial 
 assumption that was made was that as matches became longer, players would fatigue, resulting in lower first-serve percentages. 
 
+![Match duration vs first serves in](figures/scatter_plot.png)
 
 However, the results show no clear negative correlation between match length and serve accuracy. If anything, first serve percentages remain consistent 
 even in the longest matches. This suggests that the top players maintain their serving quality even throughout the physically challenging matches.
@@ -85,6 +92,7 @@ follows the pattern of match duration, since longer matches naturally involve mo
 of points. Some may simply involve longer rallies rather than quick serve and volley plays. This reflects how the game of tennis has shifted towards 
 more base line play and endurance.
 
+![Total points played per year](figures/total_points_played.png)
 
 The peaks in 2008, 2018 and 2019 correspond to some of the greatest tennis matches of this century, with multiple sets resulting in tiebreakers. 
 
@@ -93,6 +101,7 @@ The peaks in 2008, 2018 and 2019 correspond to some of the greatest tennis match
 Overall, serving quality at Wimbledon has remained consistently high over the past 25 years, while the longer matches suggest that players are now more
 evenly matched. This is a result of improved training methods, equipment and professionalism and love for the sport. The game of tennis has evolved from
 fast serve and volley exchanges to longer rallies at the baseline that require more power and endurance.
+
 Nevertheless, it’s difficult to draw strong conclusions from only 25 years of data, especially during an era dominated by a few extraordinary players. 
 Expanding the dataset to include match data before 2000 and additional statistics such as rally length would benefit in investigating the sports true 
 evolution.
