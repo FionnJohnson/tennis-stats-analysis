@@ -5,7 +5,7 @@ The analysis will include statistics from selected Wimbledon Matches, performace
 and nationality trends within the sport. The goal is to use SQL, Python, and visualisation tools to build 
 interactive dashboards and automated workflows. 
 
-### Part 1 - Wimbledon Analysis (2000 - 2024)
+### Wimbledon Analysis (2000 - 2024)
 
 [Data set for atp matches](https://github.com/JeffSackmann/tennis_atp)
 
