@@ -8,6 +8,8 @@ interactive dashboards and automated workflows.
 ### Wimbledon Analysis (2000 - 2024)
 
 [Data set for atp matches](https://github.com/JeffSackmann/tennis_atp)
+This is a link to all the atp matches for each year. I have combiend and filtered the ATP data to only include
+Wimbledon Semi-Finals and Finals from specific years. 
 
 **![Full report](Wimbledon_statistical_analysis.md)**
 
