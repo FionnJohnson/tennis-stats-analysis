@@ -15,7 +15,8 @@ Wimbledon Semi-Finals and Finals from specific years.
 
 **![Notebook code](notebooks/part_1_analysis.ipynb)**
 
-**![Data cleaning script](scripts/data_analysis_part_1.py)**
+**![Data cleaning script](scripts/data_analysis_part_1.py)**  
 
+More to come (player performance and nationality trends)
 
 
